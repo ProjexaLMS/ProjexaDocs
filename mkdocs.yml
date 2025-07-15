@@ -1,0 +1,4 @@
+site_name: Projexa LMS Docs
+site_url: https://docs.projexa.ai
+theme:
+  name: material
