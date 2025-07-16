@@ -1,6 +1,7 @@
 site_name: Projexa LMS Docs
 site_url: https://docs.projexa.ai
 theme:
+  favicon: assets/favicon.svg
   name: material
   logo: https://cdn.projexa.ai/projexa-logo.svg
   palette:
