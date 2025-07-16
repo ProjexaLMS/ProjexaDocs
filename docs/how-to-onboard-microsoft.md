@@ -1,13 +1,19 @@
-# Microsoft OAuth Login
+> **Note:** This login method is for all students and internal faculty.
 
-You can onboard to Projexa using your Microsoft account for a seamless and secure experience.
+# Logging In with Your University Account (Microsoft Azure AD)
 
-## Steps
-1. Click the **Sign in with Microsoft** button on the login page.
-2. You will be redirected to the Microsoft login portal.
-3. Enter your Microsoft credentials and approve access if prompted.
-4. Once authenticated, you will be redirected back to Projexa and your account will be created or linked automatically.
+This method is specifically designed for users with university-provided email addresses, offering a secure and familiar login experience through your existing Microsoft account.
 
-**Note:**
-- Ensure your Microsoft account is active and has the necessary permissions.
-- If you encounter issues, contact your IT administrator or Projexa support.
+**What You'll Experience:**
+
+1. **Redirection to Microsoft Login:** After entering your university email and clicking "Continue," you will be automatically and securely redirected to an official Microsoft login page. This is a standard procedure for institutional accounts, ensuring your data remains protected.  
+   
+   ![Redirection to Microsoft Login](assets/images/image5.png)
+
+2. **Completing Microsoft Authentication:** On the Microsoft page, you will enter your university username and password. If your institution uses multi-factor authentication (MFA), you will complete that step as well.  
+   
+   ![Completing Microsoft Authentication](assets/images/image7.png)
+
+3. **Landing in Projexa:** Once authenticated with Microsoft, you will be securely redirected back to Projexa. The system will recognize you and direct you to your personalized area.  
+   
+   ![Landing in Projexa](assets/images/image8.png)

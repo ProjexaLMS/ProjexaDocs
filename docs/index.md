@@ -1,14 +1,28 @@
+# Projexa Onboarding Flow: Your First Steps
 
-# Introduction
+Welcome to Projexa! This comprehensive guide will walk you through every step of getting started, ensuring a smooth and clear onboarding experience. We'll cover how you access the system, complete your profile (especially for faculty), and personalize your account with a profile picture.
 
-Welcome to Projexa Docs!
+## Starting Your Journey: How You Log In
 
-Projexa is your all-in-one project management and documentation platform. This documentation will help you get started, explore features, and onboard your team efficiently.
+Your journey with Projexa begins the moment you visit our login page. We've designed a smart system to get you to your dashboard as quickly and securely as possible.
 
 ## Features
+
 - Modern UI with sidebar navigation
 - Powerful search bar for quick access
 - Customizable header and footer
 - Easy onboarding for new users
 
-Use the sidebar to navigate through the documentation.
+**What You'll Experience:**
+
+1. **Arriving at the Login Page:** You'll navigate to the Projexa login page in your web browser. Here, you'll see a clean, intuitive interface with a prominent field asking for your email address.
+
+   ![Arriving at the Login Page](assets/images/image2.png)
+
+2. **Entering Your Email:** Type your email address into the designated field. As you do this, Projexa is already working behind the scenes to determine the best way to log you in.
+
+   ![Entering Your Email](assets/images/image3.png)
+
+3. **Clicking "Continue":** After entering your email, click the "Continue" button. Projexa will then intelligently route you to the appropriate login method based on your email domain.
+
+   ![Clicking "Continue"](assets/images/image6.png)

@@ -27,3 +27,5 @@ nav:
   - How to Onboard:
       - Microsoft OAuth Authentication: how-to-onboard-microsoft.md
       - Magic Link Authentication: how-to-onboard-magic.md
+      - Faculty Onboarding: how-to-onboard-faculty.md
+      - Personalizing Your Profile: how-to-onboard-profile.md
