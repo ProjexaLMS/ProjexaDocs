@@ -1,4 +1,4 @@
-> **Note:** To access the Idea Submission form, you must be logged out. The form is available at: `https://projexa.ai/idea-submission`
+> **Note:** The form is available at: `https://projexa.ai/idea-submission`
 
 # Idea Submission Process
 
