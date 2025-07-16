@@ -4,7 +4,7 @@ theme:
   name: material
   logo: https://cdn.projexa.ai/projexa-logo.svg
   palette:
-    primary: '#186444'
+    primary: "#186444"
   features:
     - navigation.sections
     - search.highlight
@@ -25,7 +25,6 @@ extra_css:
 nav:
   - Introduction: index.md
   - How to Onboard:
+      - Getting Started: how-to-onboard.md
       - Microsoft OAuth Authentication: how-to-onboard-microsoft.md
       - Magic Link Authentication: how-to-onboard-magic.md
-      - Faculty Onboarding: how-to-onboard-faculty.md
-      - Personalizing Your Profile: how-to-onboard-profile.md
