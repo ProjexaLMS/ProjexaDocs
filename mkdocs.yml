@@ -29,4 +29,5 @@ nav:
       - Getting Started: how-to-onboard.md
       - Microsoft OAuth Authentication: how-to-onboard-microsoft.md
       - Magic Link Authentication: how-to-onboard-magic.md
-  - Idea Submission: idea-submission.md
+  - Idea Submission:
+      - Getting Started: idea-submission.md
