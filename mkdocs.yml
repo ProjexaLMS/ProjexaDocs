@@ -2,3 +2,28 @@ site_name: Projexa LMS Docs
 site_url: https://docs.projexa.ai
 theme:
   name: material
+  logo: https://cdn.projexa.ai/projexa-logo.svg
+  palette:
+    primary: '#186444'
+  features:
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+  language: en
+  version:
+    provider: mike
+    selector: true
+copyright: "© 2025 Projexa LMS. All rights reserved."
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ProjexaLMS
+extra_css:
+  - css/custom.css
+nav:
+  - Introduction: index.md
+  - How to Onboard:
+      - Microsoft OAuth Authentication: how-to-onboard-microsoft.md
+      - Magic Link Authentication: how-to-onboard-magic.md

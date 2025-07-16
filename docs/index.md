@@ -1,17 +1,14 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Introduction
 
-## Commands
+Welcome to Projexa Docs!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Projexa is your all-in-one project management and documentation platform. This documentation will help you get started, explore features, and onboard your team efficiently.
 
-## Project layout
+## Features
+- Modern UI with sidebar navigation
+- Powerful search bar for quick access
+- Customizable header and footer
+- Easy onboarding for new users
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Use the sidebar to navigate through the documentation.
