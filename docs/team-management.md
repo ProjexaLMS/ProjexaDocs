@@ -1,20 +1,4 @@
-# Student Onboarding Guide
-
-Welcome to Projexa, your Project-Based Learning Management System! This guide will walk you through the essential steps to get started, manage your team, submit problem statements, and upload necessary documents.
-
-## 1. Account Setup & Login
-
-### Logging In
-
-Students can only log in using their Microsoft account. If your university email is linked with Microsoft, you can sign in directly using your Microsoft account.
-
-![Login Page - Microsoft Option](assets/images/login_email_entry.png)
-
-### Completing Your Profile
-
-Upon your first login, you might be prompted to complete your profile. Please fill in all required details accurately.
-
-## 2. Team Management
+## 1. Team Management
 
 The Student Dashboard is your central hub for team activities.
 
@@ -54,7 +38,7 @@ Once your team has the required number of members, the team leader must submit t
 1.  Ensure all team members have joined.
 2.  On the **Student Dashboard**, click the **"Submit Team"** button.
 
-## 3. Problem Statement Submission
+## 2. Problem Statement Submission
 
 After your team is submitted, the team leader can proceed to submit the problem statement for your project.
 
@@ -91,7 +75,7 @@ It is mandatory to connect a GitHub repository to your project. This allows ment
 4.  Click **"Save Repository"**.
     ![GitHub Integration - Select Repo](assets/images/github_select_repo.png)
 
-## 4. Uploading Supporting Documents (for Industry Projects)
+## 3. Uploading Supporting Documents (for Industry Projects)
 
 If your project is an "Industry" type, you will need to upload supporting documents to verify your association with the industry expert.
 
@@ -109,7 +93,7 @@ You will be prompted to upload these documents after your problem statement is s
 
 You can view the status of your uploaded documents (Pending, Approved, Rejected) in the "Your Documents" list. If a document is rejected, a reason will be provided.
 
-## 5. Dashboard Overview & Getting Help
+## 4. Dashboard Overview & Getting Help
 
 ### Dashboard Overview
 
