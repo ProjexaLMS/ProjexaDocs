@@ -27,6 +27,7 @@ nav:
   - Introduction: index.md
   - How to Onboard:
       - Getting Started: how-to-onboard.md
+      - Student Onboarding: how-to-onboard-students.md
       - Microsoft OAuth Authentication: how-to-onboard-microsoft.md
       - Magic Link Authentication: how-to-onboard-magic.md
   - Idea Submission:
