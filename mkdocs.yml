@@ -21,6 +21,16 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ProjexaLMS
+  # Add the custom tracking script here
+  javascripts:
+    - https://insights.projexa.ai/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js
+  # Tracking script (for Plausible Analytics)
+  extra_javascript:
+    - |
+        window.plausible = window.plausible || function() { 
+            (window.plausible.q = window.plausible.q || []).push(arguments) 
+        }
+
 extra_css:
   - css/custom.css
 nav:
@@ -32,4 +42,4 @@ nav:
   - Idea Submission:
       - Submitting Ideas: idea-submission.md
   - Team:
-      - Creation: team-management.md
+      - Team Creation: team-management.md
