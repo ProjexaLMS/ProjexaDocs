@@ -36,3 +36,5 @@ nav:
       - Submitting Ideas: idea-submission.md
   - Team:
       - Team Creation: team-management.md
+      - Team Interaction: team-interaction.md
+      - Team Evaluation: team-evaluation.md

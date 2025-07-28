@@ -1,6 +1,19 @@
 ## 1. Team Management
 
-The Student Dashboard is your central hub for team activities.
+Teams are a core component of the Projexa experience, enabling collaborative project work. The system provides robust features for team formation and management.
+
+### Team Size Configuration
+
+Projexa enforces specific team size limits to ensure effective collaboration and project management. These limits are set by coordinators.
+
+*   **Minimum Team Size:** The smallest number of participants allowed in a team.
+*   **Maximum Team Size:** The largest number of participants allowed in a team.
+
+### Cross-Section Teams
+
+The system can be configured to allow students from different academic sections to form teams together. This allows for more diverse team compositions.
+
+![Team Configuration (Coordinator View)](assets/images/coordinator_config.png)
 
 ### Creating a New Team
 
