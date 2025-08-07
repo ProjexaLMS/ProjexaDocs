@@ -38,3 +38,5 @@ nav:
       - Team Creation: team-management.md
       - Team Interaction: team-interaction.md
       - Team Evaluation: team-evaluation.md
+  - Mentor:
+      - Handling Interactions: handling-interactions.md
