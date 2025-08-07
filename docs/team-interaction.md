@@ -1,44 +1,37 @@
 # Team Interaction
 
-This section details how teams communicate and collaborate within the Projexa LMS.
+This section is for students working in teams on Projexa. Here, you'll learn how to communicate, collaborate, and make the most of your mentor support.
 
-## Team Communication and Collaboration
+## Working Together as a Team
 
-Projexa provides integrated features to facilitate communication and collaboration among team members and with assigned mentors.
+Projexa gives you easy-to-use tools to chat, share ideas, and work closely with your teammates and mentor.
 
-### Mentor Assignment
+### Your Mentor
 
-Teams are typically assigned mentors (internal or external) who provide guidance, feedback, and support throughout the project lifecycle.
+Every team is matched with a mentor—someone who will guide you, answer your questions, and help you succeed throughout your project.
 
 ![Mentor Assignment (Coordinator/Admin View)](assets/images/mentor_assignment.png)
 
-### Scheduling Mentor Interactions
+### Scheduling Meetings with Your Mentor
 
-Team leaders can schedule formal interaction sessions with their assigned mentors by going to their mentor's page. These interactions are crucial for progress updates, problem-solving, and receiving expert advice.
+As a team, you can schedule meetings with your mentor right from their page. These meetings are your chance to update your mentor on your progress, discuss any hurdles you're facing, and get expert advice.
 
 ![Schedule Interaction Form (Student View)](assets/images/schedule_interaction_1.png)
 ![Schedule Interaction Form (Student View)](assets/images/schedule_interaction_2.png)
 
-### Automated Interaction Management
+### How Projexa Helps Manage Meetings
 
-The system automates several aspects of mentor interactions to ensure efficiency and accountability.
+Projexa takes care of some meeting details for you:
 
-*   **Reminders:** Automated reminders are sent to both teams and mentors for upcoming scheduled interactions.
-*   **Auto-Cancellation:** If a mentor does not respond to an interaction request by the scheduled time, the system automatically cancels the interaction and notifies the team via email.
+*   **Reminders:** Both you and your mentor will get automatic reminders before your meetings.
+*   **Auto-Cancellation:** If your mentor doesn't respond to a meeting request in time, Projexa will cancel the meeting and let you know by email. Don't worry—no points will be deducted if a meeting is auto-cancelled by the system.
+*   **Minimum Meetings:** There is a minimum number of meetings your team needs to complete. The exact number will be shared with you through official announcements, so keep an eye out for updates.
 
 ![Interaction History (Student/Mentor View)](assets/images/interaction_history.png)
 
-### Interaction Ratings and Feedback
+### Feedback and Improvement
 
-After each interaction, mentors are prompted to provide a rating and feedback for the team's performance. This feedback is a key component of the team's overall evaluation.
+After each meeting, your mentor will rate your team's performance and give feedback. This is important for your team's overall evaluation and success.
 
 ![Rate Interaction Form (Mentor View)](assets/images/rate_interaction_form.png)
 
-## Role-Based Access to Interaction Features
-
-Access to team interaction functionalities is determined by user roles:
-
-*   **Students:** Can view their team details, schedule interactions with their mentor (if they are the team leader), and view past interaction history.
-*   **Mentors:** Can view their assigned teams, respond to interaction requests, and provide ratings and feedback for completed interactions.
-*   **Coordinators:** Can view all teams and their interactions, assign mentors to teams, and monitor the overall interaction process.
-*   **Admins:** Have full control over all team and interaction settings, including configuring team size limits and enabling cross-section teams.
